@@ -1,0 +1,5 @@
+D:\Doug\C#\OleDb\OleDb\bin\Debug\OleDb.dll
+D:\Doug\C#\OleDb\OleDb\bin\Debug\OleDb.pdb
+D:\Doug\C#\OleDb\OleDb\obj\Debug\OleDb.dll
+D:\Doug\C#\OleDb\OleDb\obj\Debug\OleDb.pdb
+D:\Doug\C#\OleDb\OleDb\obj\Debug\OleDb.csprojResolveAssemblyReference.cache
